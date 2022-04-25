@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-list_all Method
+List all documents
 """
 import pymongo
 
